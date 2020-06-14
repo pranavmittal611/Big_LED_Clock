@@ -1,7 +1,5 @@
 # Video
-<br>
 # Diagram
-<br>
 # Components
 •Arduino Nano<br>
 •DS3231 RTC Module<br>
