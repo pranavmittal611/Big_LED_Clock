@@ -1,15 +1,15 @@
 # Diagram
 
 # Components
-•Arduino Nano
-•DS3231 RTC Module
-•WS2812B Addressable LED Strip
-•10 Ohm Photo Resistor (for adaptive brightness)
+•Arduino Nano<br>
+•DS3231 RTC Module<br>
+•WS2812B Addressable LED Strip<br>
+•10 Ohm Photo Resistor (for adaptive brightness)<br>
 # Assembly
-•
-•
-•
+•<br>
+•<br>
+•<br>
 # Links to Resources
-•
-•
-•
+•<br>
+•<br>
+•<br>
