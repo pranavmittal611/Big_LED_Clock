@@ -10,7 +10,7 @@
 •<br>
 •<br>
 •<br>
-# Links to Resources
+# Resources
 •<br>
 •<br>
 •<br>
