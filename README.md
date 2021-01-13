@@ -1,5 +1,5 @@
 # Tutorial
-![Picture](https://github.com/DinVyapari/Big_LED_Clock/blob/master/image.jpg?raw=true)
+![Picture](https://raw.githubusercontent.com/DinVyapari/Big_LED_Clock/master/image.jpg)
 # Video
 # Diagram
 # Components
